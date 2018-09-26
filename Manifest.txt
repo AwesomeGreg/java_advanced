@@ -1,0 +1,2 @@
+Main-Class: ru.ifmo.rain.elmanov.implementor.Implementor
+Implementation-Vendor: Elmanov Grigoriy
